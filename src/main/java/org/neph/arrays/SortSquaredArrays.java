@@ -3,8 +3,15 @@ package org.neph.arrays;
 import java.util.Arrays;
 
 /**
+ * @Author Nephat Muchiri
+ * Date 21/04/2023
+ */
+
+/*
  * In this challenge, you are given an array as an input,
- * square it and order the results in ascending order**/
+ * square it and order the results in ascending order
+ * */
+
 public class SortSquaredArrays {
 
     public static void main(String[] args) {
