@@ -1,4 +1,4 @@
-package org.neph.arrays;
+package org.neph.ArraysAndStrings;
 
 import java.util.Arrays;
 

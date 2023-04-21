@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad473dce-e53a-4a6b-87d8-966791137872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/neph/arrays/SortSquaredArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/neph/ArraysAndStrings/CheckPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/neph/arrays/SortSquaredArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/neph/ArraysAndStrings/SortSquaredArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,17 +46,30 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.editor.code.editing",
+    "settings.editor.selected.configurable": "fileTemplates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="SortSquaredArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.neph.arrays.SortSquaredArrays" />
+  <component name="RunManager" selected="Application.CheckPalindrome">
+    <configuration name="CheckPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.neph.ArraysAndStrings.CheckPalindrome" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.neph.arrays.*" />
+          <option name="PATTERN" value="org.neph.ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortSquaredArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.neph.ArraysAndStrings.SortSquaredArrays" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.neph.ArraysAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckPalindrome" />
         <item itemvalue="Application.SortSquaredArrays" />
       </list>
     </recent_temporary>
@@ -77,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682079240765</updated>
-      <workItem from="1682079241816" duration="1129000" />
+      <workItem from="1682079241816" duration="2929000" />
     </task>
     <servers />
   </component>
