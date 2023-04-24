@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad473dce-e53a-4a6b-87d8-966791137872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TwoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +102,8 @@
       <updated>1682079240765</updated>
       <workItem from="1682079241816" duration="4902000" />
       <workItem from="1682154667579" duration="593000" />
-      <workItem from="1682238358920" duration="1783000" />
+      <workItem from="1682238358920" duration="3663000" />
+      <workItem from="1682315899386" duration="1905000" />
     </task>
     <servers />
   </component>
@@ -119,5 +120,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TwoSum.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

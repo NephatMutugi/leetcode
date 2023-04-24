@@ -1,3 +1,5 @@
+package arraysAndStrings;
+
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
@@ -9,8 +11,9 @@ import java.util.Map;
 public class TwoSum {
 
     public static void main(String[] args) {
-        int[] input = {2,4,11,7};
-        System.out.println("Output: " + Arrays.toString(twoSum(input, 9)));
+        int[] input = {2,4,11,3, 5,2,3, 8, 6,7};
+        int target = 9;
+        System.out.println("Output: " + Arrays.toString(twoSum(input, target)));
     }
 
     private static int[] twoSum(int[] nums, int target){

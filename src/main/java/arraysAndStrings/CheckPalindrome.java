@@ -1,4 +1,4 @@
-package org.neph.ArraysAndStrings;
+package arraysAndStrings;
 
 /**
  * @Author Nephat Muchiri
