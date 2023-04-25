@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad473dce-e53a-4a6b-87d8-966791137872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/arraysAndStrings/SortSquaredArraysTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arraysAndStrings/SortSquaredArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysAndStrings/SortSquaredArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/arraysAndStrings/TwoSumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arraysAndStrings/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysAndStrings/TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,7 @@
       <recent name="arraysAndStrings" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SortSquaredArraysTest.testReturnSortedSquaresWithSingleElementArray">
+  <component name="RunManager" selected="JUnit.TwoSumTest">
     <configuration name="CheckForTargetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
@@ -88,21 +90,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="arraysAndStrings" />
       <option name="MAIN_CLASS_NAME" value="arraysAndStrings.CheckPalindromeTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeSortedArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="arraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.MergeSortedArrayTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -139,13 +126,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.TwoSumTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TwoSumTest" />
         <item itemvalue="JUnit.SortSquaredArraysTest.testReturnSortedSquaresWithSingleElementArray" />
         <item itemvalue="JUnit.SortSquaredArraysTest" />
         <item itemvalue="JUnit.CheckPalindromeTest" />
         <item itemvalue="JUnit.CheckForTargetTest" />
-        <item itemvalue="JUnit.MergeSortedArrayTest" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +163,7 @@
       <workItem from="1682154667579" duration="593000" />
       <workItem from="1682238358920" duration="3663000" />
       <workItem from="1682315899386" duration="2758000" />
-      <workItem from="1682401273944" duration="5514000" />
+      <workItem from="1682401273944" duration="6143000" />
     </task>
     <servers />
   </component>
@@ -184,7 +186,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/arraysAndStrings/TwoSum.java</url>
-          <line>24</line>
+          <line>17</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
