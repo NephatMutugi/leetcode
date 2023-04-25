@@ -14,13 +14,7 @@ import java.util.Arrays;
 
 public class SortSquaredArrays {
 
-    public static void main(String[] args) {
-        int[] input = {-1, 10,0, 2, 12};
-        System.out.println("INPUT ARRAY: " + Arrays.toString(Arrays.stream(input).toArray()));
-        System.out.println("SORTED SQUARES:\n" + Arrays.toString(returnSortedSquares(input)));
-    }
-
-    private static int[] returnSortedSquares(int[] input){
+    public static int[] returnSortedSquares(int[] input){
         int[] squaredArray = new int[input.length];
         int i = 0;
         for (int num : input){
