@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad473dce-e53a-4a6b-87d8-966791137872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arraysAndStrings/MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/arraysAndStrings/MergeSortedArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/arraysAndStrings/CheckForTargetTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arraysAndStrings/CheckForTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysAndStrings/CheckForTarget.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,7 @@
       <recent name="arraysAndStrings" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MergeSortedArrayTest">
+  <component name="RunManager" selected="JUnit.CheckForTargetTest">
     <configuration name="CheckForTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arraysAndStrings.CheckForTarget" />
       <module name="leetcode" />
@@ -91,8 +90,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortSquaredArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.SortSquaredArrays" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.TwoSum" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckForTargetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -100,13 +105,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.TwoSum" />
-      <module name="leetcode" />
+      <option name="PACKAGE_NAME" value="arraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.CheckForTargetTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CheckForTargetTest" />
         <item itemvalue="JUnit.MergeSortedArrayTest" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.CheckForTarget" />
         <item itemvalue="Application.CheckPalindrome" />
-        <item itemvalue="Application.SortSquaredArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +149,7 @@
       <workItem from="1682154667579" duration="593000" />
       <workItem from="1682238358920" duration="3663000" />
       <workItem from="1682315899386" duration="2758000" />
-      <workItem from="1682401273944" duration="4156000" />
+      <workItem from="1682401273944" duration="4828000" />
     </task>
     <servers />
   </component>
