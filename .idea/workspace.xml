@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad473dce-e53a-4a6b-87d8-966791137872" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arraysAndStrings/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysAndStrings/MergeSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/arraysAndStrings/MergeSortedArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/arraysAndStrings/MergeSortedArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arraysAndStrings/IsSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/arraysAndStrings/IsSubsequenceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,23 @@
       <recent name="arraysAndStrings" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MergeSortedArrayTest">
+  <component name="RunManager" selected="JUnit.IsSubsequenceTest.testIsSubsequence">
+    <configuration name="IsSubsequenceTest.testIsSubsequence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.IsSubsequenceTest" />
+      <option name="METHOD_NAME" value="testIsSubsequence" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MergeSortedArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
@@ -91,21 +106,6 @@
       <option name="MAIN_CLASS_NAME" value="arraysAndStrings.MergeSortedArrayTest" />
       <option name="METHOD_NAME" value="testMergeSortedArray" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortSquaredArraysTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="arraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.SortSquaredArraysTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IsSubsequenceTest.testIsSubsequence" />
         <item itemvalue="JUnit.MergeSortedArrayTest" />
         <item itemvalue="JUnit.MergeSortedArrayTest.testMergeSortedArray" />
         <item itemvalue="JUnit.TwoSumTest" />
         <item itemvalue="JUnit.SortSquaredArraysTest.testReturnSortedSquaresWithSingleElementArray" />
-        <item itemvalue="JUnit.SortSquaredArraysTest" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +164,7 @@
       <workItem from="1682238358920" duration="3663000" />
       <workItem from="1682315899386" duration="2758000" />
       <workItem from="1682401273944" duration="7865000" />
-      <workItem from="1682579862698" duration="1914000" />
+      <workItem from="1682579862698" duration="3094000" />
     </task>
     <servers />
   </component>
@@ -189,21 +189,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/arraysAndStrings/TwoSum.java</url>
           <line>17</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/arraysAndStrings/MergeSortedArray.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/arraysAndStrings/MergeSortedArray.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/arraysAndStrings/MergeSortedArray.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
