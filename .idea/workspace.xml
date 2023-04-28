@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad473dce-e53a-4a6b-87d8-966791137872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arraysAndStrings/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/arraysAndStrings/ReverseStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UniqueRefGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,10 +59,11 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
       <recent name="arraysAndStrings" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ReverseStringTest.testReverseString">
+  <component name="RunManager" selected="JUnit.UniqueRefGeneratorTest">
     <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arraysAndStrings.ReverseString" />
       <module name="leetcode" />
@@ -108,22 +108,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortedArrayTest.testMergeSortedArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="arraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.MergeSortedArrayTest" />
-      <option name="METHOD_NAME" value="testMergeSortedArray" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ReverseStringTest.testReverseString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
@@ -140,13 +124,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UniqueRefGeneratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UniqueRefGeneratorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UniqueRefGeneratorTest" />
         <item itemvalue="JUnit.ReverseStringTest.testReverseString" />
         <item itemvalue="Application.ReverseString" />
         <item itemvalue="JUnit.IsSubsequenceTest.testIsSubsequence" />
         <item itemvalue="JUnit.MergeSortedArrayTest" />
-        <item itemvalue="JUnit.MergeSortedArrayTest.testMergeSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +156,7 @@
       <workItem from="1682238358920" duration="3663000" />
       <workItem from="1682315899386" duration="2758000" />
       <workItem from="1682401273944" duration="7865000" />
-      <workItem from="1682579862698" duration="5443000" />
+      <workItem from="1682579862698" duration="8071000" />
     </task>
     <servers />
   </component>
