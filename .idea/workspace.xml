@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad473dce-e53a-4a6b-87d8-966791137872" name="Changes" comment="" />
+    <list default="true" id="ad473dce-e53a-4a6b-87d8-966791137872" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arraysAndStrings/SlidingWindow/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysAndStrings/SlidingWindow/notes.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +156,7 @@
       <workItem from="1682968856940" duration="1261000" />
       <workItem from="1683007913072" duration="7990000" />
       <workItem from="1683090457360" duration="1245000" />
-      <workItem from="1683292682623" duration="406000" />
+      <workItem from="1683292682623" duration="711000" />
     </task>
     <servers />
   </component>
