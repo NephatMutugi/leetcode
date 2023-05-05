@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad473dce-e53a-4a6b-87d8-966791137872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arraysAndStrings/MergeSortedArray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/arraysAndStrings/MergeSortedArray2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arraysAndStrings/MergeSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/arraysAndStrings/MergeSortedListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +150,8 @@
       <workItem from="1682401273944" duration="7865000" />
       <workItem from="1682579862698" duration="8071000" />
       <workItem from="1682968856940" duration="1261000" />
-      <workItem from="1683007913072" duration="6102000" />
+      <workItem from="1683007913072" duration="7990000" />
+      <workItem from="1683090457360" duration="1245000" />
     </task>
     <servers />
   </component>
@@ -178,16 +176,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/arraysAndStrings/TwoSum.java</url>
           <line>17</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/arraysAndStrings/MergeSortedArray2.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/arraysAndStrings/MergeSortedArray2.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
