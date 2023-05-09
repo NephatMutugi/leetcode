@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad473dce-e53a-4a6b-87d8-966791137872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arraysAndStrings/SlidingWindow/FindLength.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arraysAndStrings/SlidingWindow/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysAndStrings/SlidingWindow/notes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arraysAndStrings/SlidingWindow/FindLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysAndStrings/SlidingWindow/FindLength.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -65,11 +64,12 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="arraysAndStrings.SlidingWindow" />
       <recent name="arraysAndStrings" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FindLengthTest.testFindLengthWithKEqualToSingleElement">
+  <component name="RunManager" selected="Application.FindLength">
     <configuration name="FindLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arraysAndStrings.SlidingWindow.FindLength" />
       <module name="leetcode" />
@@ -148,10 +148,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindLength" />
         <item itemvalue="JUnit.FindLengthTest.testFindLengthWithKEqualToSingleElement" />
         <item itemvalue="JUnit.FindLengthTest.testFindLengthWithEmptyInput" />
         <item itemvalue="JUnit.FindLengthTest.testFindLengthWithNullInput" />
-        <item itemvalue="Application.FindLength" />
         <item itemvalue="JUnit.MergeSortedArray2Test" />
       </list>
     </recent_temporary>
@@ -174,7 +174,7 @@
       <workItem from="1683007913072" duration="7990000" />
       <workItem from="1683090457360" duration="1245000" />
       <workItem from="1683292682623" duration="1831000" />
-      <workItem from="1683626263958" duration="1865000" />
+      <workItem from="1683626263958" duration="5743000" />
     </task>
     <servers />
   </component>
@@ -199,6 +199,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/arraysAndStrings/TwoSum.java</url>
           <line>17</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/arraysAndStrings/SlidingWindow/FindLength.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/arraysAndStrings/SlidingWindow/FindLength.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/arraysAndStrings/SlidingWindow/FindLength.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/arraysAndStrings/SlidingWindow/FindLength.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
